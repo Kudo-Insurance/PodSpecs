@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name = "safetyscoresdk"
 
-  spec.version = “1.0.2”
+  spec.version = "1.0.2"
 
   spec.summary = "iOS Framework for Safety Score"
 
