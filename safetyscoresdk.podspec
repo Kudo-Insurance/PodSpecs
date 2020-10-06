@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.swift_version = "5.0"
 
-  spec.ios.vendored_frameworks = 'safetyscoresdk.framework'
+  spec.ios.vendored_frameworks = 'safetyscoresdk1.0.2/safetyscoresdk.framework'
 
 
 
