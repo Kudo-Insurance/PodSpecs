@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'safetyscoresdk.framework'
 
   # spec.source = { :http => 'https://safetyscore-sdk.s3-eu-west-1.amazonaws.com/ios/safetyscoresdk1.0.2.zip' }
-  spec.source = { :http => 'https://github.com/Kudo-Insurance/PodSpecs/master/safetyscoresdk/1.0.2/safetyscoresdk1.0.2.zip' }
+  spec.source = { :http => 'https://github.com/Kudo-Insurance/PodSpecs/tree/master/safetyscoresdk/1.0.2/safetyscoresdk1.0.2.zip' }
 
   spec.dependency "AWSCore",'~> 2.13.4'
   spec.dependency "AWSAppSync",'~> 3.1.2'
