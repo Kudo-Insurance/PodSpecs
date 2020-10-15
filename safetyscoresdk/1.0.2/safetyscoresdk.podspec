@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage = "https://github.com/autoliv"
 
-  spec.license = { type: 'Commercial', file: 'LICENSE.md' }
+  # spec.license = { type: 'Commercial', file: 'LICENSE.md' }
 
   spec.authors = { "Autoliv" => 'safetyscoresdk@autoliv.com' }
 
