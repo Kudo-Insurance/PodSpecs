@@ -22,8 +22,8 @@ Pod::Spec.new do |spec|
 
 
 
-  # spec.source = { :http => 'https://safetyscore-sdk.s3-eu-west-1.amazonaws.com/ios/safetyscoresdk1.0.2.zip' }
-  spec.source = { :git => 'https://github.com/Kudo-Insurance/PodSpecs.git', :tag => '1.0.2' }
+  spec.source = { :http => 'https://safetyscore-sdk.s3-eu-west-1.amazonaws.com/ios/safetyscoresdk1.0.2.zip' }
+  # spec.source = { :git => 'https://github.com/Kudo-Insurance/PodSpecs.git', :tag => '1.0.2' }
 
 
 
